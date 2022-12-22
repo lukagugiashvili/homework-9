@@ -1,0 +1,79 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.sity img {
+    width: 752px;
+    height: 725px;
+    display: flex;
+    position: relative;
+    bottom: 0px;
+}
+
+.all {
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+
+  position: absolute;
+  margin-left: 580px;
+  background-color:#FFFFFF;
+  border-radius: 17px;
+  width: 950px;
+  height: 725px;
+  background-color: #FFFFFF;
+  right: 0px;
+  top: 0px;
+}
+
+.logo {
+    position: relative;
+}
+.logo  img {
+    display: flex;
+    margin-left: 156px;
+}
+
+.signup {
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+}
+.signup input {
+    width: 256px;
+    height: 20px;
+    display: flex;
+}
+.footer {
+    display: flex;
+    margin-top: 200px;
+    padding-bottom: 40px;
+    flex-direction:column;
+ 
+}
+
+.footer p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+}
+
+.images {
+    position: relative;
+    width: 900px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+    
+
+   
+
+
+ 
